@@ -1,6 +1,6 @@
 <div align="center">
 
-# Trump.skill
+# 川普.skill
 
 > *A public-persona skill for Donald J. Trump: not a quote pack, but a distilled rhetorical profile.*
 
