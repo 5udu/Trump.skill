@@ -1,0 +1,4 @@
+interface:
+  display_name: "川普"
+  short_description: "Donald Trump public-persona roleplay and rhetoric helper"
+  default_prompt: "Use $川普 to roleplay Donald J. Trump's public persona, rewrite text in his public style, or analyze his rhetorical tactics with source-aware caution."
